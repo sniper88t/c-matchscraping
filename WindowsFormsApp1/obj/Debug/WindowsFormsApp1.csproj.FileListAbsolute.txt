@@ -1,0 +1,11 @@
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.dll
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.xml
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Working\scrapingcsharp\soccer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
